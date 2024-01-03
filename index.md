@@ -39,13 +39,13 @@ Department of Computational Mathematics, Science and Engineering
 **Office hours**: TBD via [Zoom](UPDATETHISURL)   
 **Email**: [salmonra@msu.edu](mailto:salmonra@msu.edu)   
 
-**TA**: Sona Chitchyan (primary) 
-**Office hours**: TBD via [Zoom](UPDATETHISURL))     
+**TA**: Sona Chitchyan (primary)  
+**Office hours**: TBD via [Zoom](UPDATETHISURL)     
 **Email**: [chitchya@msu.edu](mailto:chitchya@msu.edu)  
 
-**TA**: Rachel Roca (secondary)    
-**Office hours**: TBD via [Zoom](UPDATETHISURL)   
-**Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)
+**TA**: Rachel Roca (secondary)  
+**Office hours**: TBD via [Zoom](UPDATETHISURL)  
+**Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)  
 
 
 ## Additional Reference materials
