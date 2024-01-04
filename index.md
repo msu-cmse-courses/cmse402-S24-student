@@ -17,7 +17,8 @@ Course discussions for each section, 001 and 002, will be held in the `#dataviz-
 
 ## Instructor Information
 
-### Section 001
+### Section 001 (Location: Wonders C215; Meeting Time: Tues/Thurs 3-4:20 PM)
+
 **Devin Silvia**  
 Director of Undergraduate Studies and Teaching Specialist  
 Department of Computational Mathematics, Science and Engineering  
@@ -32,7 +33,8 @@ Department of Computational Mathematics, Science and Engineering
 **Office hours**: Time and location is TBD  
 **Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)
 
-### Section 002
+### Section 002 (Location: Hubbard G29; Meeting Time: Mon/Wed 12:40-2 PM)    
+
 **Rachel Frisbie**  
 Director of Graduate Studies and Assistant Professor  
 Department of Computational Mathematics, Science and Engineering 
