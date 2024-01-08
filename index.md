@@ -26,11 +26,11 @@ Department of Computational Mathematics, Science and Engineering
 **Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
 **TA**: Patrick Govan (primary)    
-**Office hours**: Time and location is TBD  
+**Office hours**: Thursday, 12-2pm; Friday, 11am-1pm; Location TBD
 **Email**: [govanpat@msu.edu](mailto:govanpat@msu.edu)
 
 **TA**: Rachel Roca (secondary)    
-**Office hours**: Time and location is TBD  
+**Office hours**: Monday, 2:30-4:30pm; Location TBD  
 **Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)
 
 ### Section 002 <br> (Location: Hubbard G29; Time: Mon/Wed 12:40-2 PM)    
@@ -42,11 +42,11 @@ Department of Computational Mathematics, Science and Engineering
 **Email**: [salmonra@msu.edu](mailto:salmonra@msu.edu)   
 
 **TA**: Sona Chitchyan (primary)  
-**Office hours**: Time and location is TBD  
+**Office hours**: Tuesday, 3-5pm; Wednesday 3-5pm; Location TBD 
 **Email**: [chitchya@msu.edu](mailto:chitchya@msu.edu)  
 
 **TA**: Rachel Roca (secondary)  
-**Office hours**: Time and location is TBD  
+**Office hours**: Monday, 2:30-4:30pm; Location TBD  
 **Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)  
 
 
