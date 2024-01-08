@@ -30,7 +30,7 @@ Department of Computational Mathematics, Science and Engineering
 **Email**: [govanpat@msu.edu](mailto:govanpat@msu.edu)
 
 **TA**: Rachel Roca (secondary)    
-**Office hours**: Monday, 2:30-4:30pm; Location TBD  
+**Office hours**: Monday, 2:30-4:30pm; Location TBD
 **Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)
 
 ### Section 002 <br> (Location: Hubbard G29; Time: Mon/Wed 12:40-2 PM)    
@@ -38,15 +38,15 @@ Department of Computational Mathematics, Science and Engineering
 **Rachel Frisbie**  
 Director of Graduate Studies and Assistant Professor  
 Department of Computational Mathematics, Science and Engineering 
-**Office hours**: Time and location is TBD  
+**Office hours**: Tuesday, 10-11am; Wednesday; 10-11am; Location EB 1508C and Zoom (https://msu.zoom.us/j/98920826889 Passcode: 458304)
 **Email**: [salmonra@msu.edu](mailto:salmonra@msu.edu)   
 
 **TA**: Sona Chitchyan (primary)  
-**Office hours**: Tuesday, 3-5pm; Wednesday 3-5pm; Location TBD 
+**Office hours**: Tuesday, 3-5pm; Wednesday 3-5pm; Location TBD
 **Email**: [chitchya@msu.edu](mailto:chitchya@msu.edu)  
 
 **TA**: Rachel Roca (secondary)  
-**Office hours**: Monday, 2:30-4:30pm; Location TBD  
+**Office hours**: Monday, 2:30-4:30pm; Location TBD
 **Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)  
 
 
