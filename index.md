@@ -22,15 +22,18 @@ Course discussions for each section, 001 and 002, will be held in the `#dataviz-
 **Devin Silvia**  
 Director of Undergraduate Studies and Teaching Specialist  
 Department of Computational Mathematics, Science and Engineering  
-**Office hours**: Tuesdays 11am-12pm; Fridays 10-11am; Location EB 1508E and Zoom (https://msu.zoom.us/j/99043568819; Passcode: 8675309)    
+**Office hours**: Tuesdays 11am-12pm; Fridays 10-11am; Location EB 1508E and Zoom  
+(https://msu.zoom.us/j/99043568819; Passcode: 8675309)    
 **Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
 **TA**: Patrick Govan (primary)    
-**Office hours**: Thursday, 12-2pm; Friday, 11am-1pm; Location TBD  
+**Office hours**: Thursday, 12-2pm; Friday, 11am-1pm; Location Zoom  
+(https://msu.zoom.us/j/93963507233; Passcode: 966388)  
 **Email**: [govanpat@msu.edu](mailto:govanpat@msu.edu)
 
 **TA**: Rachel Roca (secondary)    
-**Office hours**: Monday, 2:30-4:30pm; Location TBD  
+**Office hours**: Monday, 2:30-4:30pm; Location EB 1508A and Zoom  
+(https://msu.zoom.us/j/93963507233; Passcode: 966388)  
 **Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)
 
 ### Section 002 <br> (Location: Hubbard G29; Time: Mon/Wed 12:40-2 PM)    
@@ -42,11 +45,13 @@ Department of Computational Mathematics, Science and Engineering
 **Email**: [salmonra@msu.edu](mailto:salmonra@msu.edu)   
 
 **TA**: Sona Chitchyan (primary)  
-**Office hours**: Tuesday, 3-5pm; Wednesday 3-5pm; Location TBD  
+**Office hours**: Tuesday, 3-5pm; Wednesday 3-5pm; Location Zoom  
+(https://msu.zoom.us/j/93963507233; Passcode: 966388)  
 **Email**: [chitchya@msu.edu](mailto:chitchya@msu.edu)  
 
 **TA**: Rachel Roca (secondary)  
-**Office hours**: Monday, 2:30-4:30pm; Location TBD  
+**Office hours**: Monday, 2:30-4:30pm; Location EB 1508A and Zoom  
+(https://msu.zoom.us/j/93963507233; Passcode: 966388)  
 **Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)  
 
 
