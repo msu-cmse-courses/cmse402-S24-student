@@ -23,26 +23,29 @@ Course discussions for each section, 001 and 002, will be held in the `#dataviz-
 Director of Undergraduate Studies and Teaching Specialist  
 Department of Computational Mathematics, Science and Engineering  
 **Office hours**: Tuesdays 11am-12pm; Fridays 10-11am; Location EB 1508E and Zoom  
-(https://msu.zoom.us/j/99043568819; Passcode: 8675309)    
+(https://msu.zoom.us/j/99043568819; Passcode: 8675309)  
 **Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
 
-**TA**: Patrick Govan (primary)    
+**TA**: Patrick Govan (primary)  
 **Office hours**: Thursday, 12-2pm; Friday, 11am-1pm; Location Zoom  
 (https://msu.zoom.us/j/93963507233; Passcode: 966388)  
 **Email**: [govanpat@msu.edu](mailto:govanpat@msu.edu)
 
-**TA**: Rachel Roca (secondary)    
+**TA**: Rachel Roca (secondary)  
 **Office hours**: Monday, 2:30-4:30pm; Location EB 1508A and Zoom  
 (https://msu.zoom.us/j/93963507233; Passcode: 966388)  
-**Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)
+**Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)  
 
-### Section 002 <br> (Location: Hubbard G29; Time: Mon/Wed 12:40-2 PM)    
+**In-class Facilitator**: Jonathan Kho  
+**Email**: [khojonat@msu.edu](mailto:khojonat@msu.edu)  
+
+### Section 002 <br> (Location: Hubbard G29; Time: Mon/Wed 12:40-2 PM)  
 
 **Rachel Frisbie**  
 Director of Graduate Studies and Assistant Professor  
-Department of Computational Mathematics, Science and Engineering   
+Department of Computational Mathematics, Science and Engineering  
 **Office hours**: Tuesday, 10-11am; Wednesday; 10-11am; Location EB 1508C and Zoom (https://msu.zoom.us/j/98920826889 Passcode: 458304)  
-**Email**: [salmonra@msu.edu](mailto:salmonra@msu.edu)   
+**Email**: [salmonra@msu.edu](mailto:salmonra@msu.edu)  
 
 **TA**: Sona Chitchyan (primary)  
 **Office hours**: Tuesday, 3-5pm; Wednesday 3-5pm; Location Zoom  
@@ -54,6 +57,8 @@ Department of Computational Mathematics, Science and Engineering
 (https://msu.zoom.us/j/93963507233; Passcode: 966388)  
 **Email**: [rocarach@msu.edu](mailto:rocarach@msu.edu)  
 
+**In-class Facilitator**: Jonathan Kho  
+**Email**: [khojonat@msu.edu](mailto:khojonat@msu.edu)  
 
 ## Additional Reference materials
 
